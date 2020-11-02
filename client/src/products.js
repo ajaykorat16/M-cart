@@ -7,8 +7,8 @@ const products = [
     brand: 'Lee',
     category: 'Cloths',
     price: 105,
-    stocks: 5,
-    ratings: 3,
+    stocks: 1,
+    ratings: 3.5,
     numReviews: 6,
   },
   {
