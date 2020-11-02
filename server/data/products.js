@@ -1,6 +1,6 @@
 const products = [
   {
-    _id: 1,
+    _id: '1',
     name: 'Winter collection red',
     image: '/images/red-google.jpg',
     description: 'Special for winter and nice with affordable',
@@ -12,7 +12,7 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: 2,
+    _id: '2',
     name: 'Winter collection black',
     image: '/images/black-tshirt.jpg',
     description: 'Special for winter and nice with affordable',
@@ -24,7 +24,7 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: 3,
+    _id: '3',
     name: 'Winter collection combo',
     image: '/images/combo.jpg',
     description: 'Special for winter and nice with affordable',
@@ -36,7 +36,7 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: 4,
+    _id: '4',
     name: 'Winter collection regular blue',
     image: '/images/regular-blue.jpg',
     description: 'Special for winter and nice with affordable',
@@ -48,7 +48,7 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: 5,
+    _id: '5',
     name: 'Winter collection white',
     image: '/images/white-shadow.jpg',
     description: 'Special for winter and nice with affordable',
@@ -60,7 +60,7 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: 6,
+    _id: '6',
     name: 'Winter collection yelow',
     image: '/images/yellow-google.jpg',
     description: 'Special for winter and nice with affordable',
